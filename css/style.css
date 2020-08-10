@@ -157,6 +157,13 @@ a{
   padding: 30px;
 }
 
+.middle-container-1{
+  background-color: #eeeeee;
+  padding: 30px;
+  text-align: left;
+  
+}
+
 .btn:hover {
   border: solid #337FED 1px;
   background: #1E62D0;
