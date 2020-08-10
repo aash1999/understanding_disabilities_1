@@ -60,12 +60,13 @@ a{
 
 
 .robot{
-  
+
 }
 .heading-1{
   position: relative;
 
-  top : 30px;
+  bottom : 170px  ;
+  font-size:  1;
 }
 .paragraph-1{
   position: relative;
@@ -88,7 +89,7 @@ a{
   width:9%;
   position: relative;
   right : 40%;
-  top : 180px;
+  top : 20px:;
 
 }
 .cloud-2 {
@@ -100,14 +101,14 @@ a{
 .mountain-1 {
   position: relative;
 
-  bottom: 53px;
+  bottom:  173px;
 
   right: 40%;
 }
 .mountain-2 {
   position: relative;
   transform: scaleX(-1);
-  bottom: 630px;
+  bottom:  750px;
   left : 40%;
 
 }
