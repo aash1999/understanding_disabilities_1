@@ -29,6 +29,8 @@ p{
   color: #40514E;
   font-family: 'Merriweather', serif;
   font-size: 1.25rem;
+  line-height: 2;
+
 }
 a{
   color: #11999E;
@@ -36,6 +38,16 @@ a{
 }
 
 /*------BY CLASSES----*/
+.index-p{
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  font-size: 1.25rem;
+  line-height: 2;
+
+  text-align: center;
+  margin: 10px 20%;
+  padding: 20px;
+}
 .skill-row{
   width : 50%;
   margin : 100px auto;
@@ -89,6 +101,7 @@ a{
   bottom: 53px;
   right: 40%;
 }
+
 
 .code-image{
   width : 25%;
