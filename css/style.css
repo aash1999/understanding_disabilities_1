@@ -16,10 +16,11 @@ h1 {
 }
 
 h2{
-  font-family: 'Montserrat', sans-serif;
+  font-family:  sans-serif;
   color: #66BFBF;
   font-size: 1.25rem;
   font-weight: normal;
+  font-weight: bold;
 }
 h3{
   color: #00adb5;
@@ -161,7 +162,7 @@ a{
   background-color: #eeeeee;
   padding: 30px;
   text-align: left;
-  
+
 }
 
 .btn:hover {
