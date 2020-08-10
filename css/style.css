@@ -274,3 +274,12 @@ a{
 .img-2{
   width = 30%;
 }
+.p3{
+  text-align: left;
+  margin: 10px 300px;
+}
+.p4{
+  text-align: right;
+  margin-right: 350px;
+  font-size: 15px;
+}
