@@ -100,7 +100,15 @@ a{
   position: relative;
 
   bottom: 53px;
+
   right: 40%;
+}
+.mountain-2 {
+  position: relative;
+  transform: scaleX(-1);
+  bottom: 630px;
+  left : 40%;
+
 }
 
 
@@ -221,5 +229,17 @@ a{
 .video{
 
   float:left;
+
+}
+.h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.25rem;
+  font-weight: normal;
+
+}
+.top-btn{
+  position: relative;
+  bottom: 200px;
 
 }
