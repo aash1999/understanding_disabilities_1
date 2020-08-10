@@ -2,6 +2,7 @@ body {
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
+
 }
 
 h1 {
@@ -119,10 +120,10 @@ a{
   border-style: none none dotted none;
   width: 10%;
   border-width: 5px;
-  background-color: white;
+  background-color: #eeeeee;
   display: block;
   height: 2px;
-  color: #EAF6F6;
+  color: #3b6978;
 }
 
 .bottom-container{
@@ -144,7 +145,7 @@ a{
 
 
 .middle-container{
-  background-color: white;
+  background-color: #eeeeee;
   padding: 30px;
 }
 
