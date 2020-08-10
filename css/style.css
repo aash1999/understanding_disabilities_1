@@ -85,7 +85,9 @@ a{
 
 .mountain-1 {
   position: relative;
-  top : 60px;
+
+  bottom: 53px;
+  right: 40%;
 }
 
 .code-image{
